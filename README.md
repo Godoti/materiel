@@ -1,6 +1,7 @@
 # le materiel de base d'un hackeur
 salut l'ami
-voici mon pour hack adapter vous a votre budjet et votre specialité
+voici mon materiel pour hack
+adapter vous a votre budjet et votre specialité
 
 
 
