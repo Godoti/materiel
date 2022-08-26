@@ -46,7 +46,8 @@ This is the HackRF One, a Software Defined Radio (SDR) peripheral capable of tra
 
 
 https://www.fruugo.fr/mini-spy-noir-usb-enregistreur-de-frappe-240h/p-86130946-179696654?language=fr&ac=ProductCasterAPI&gclid=CjwKCAjw6fyXBhBgEiwAhhiZsl9c_nmTmg33iecoOvTeGHi3-6EVbpKiq2KRkOjK7ejd79c27NMbaBoCN4sQAvD_BwE#
-
+et bien sur la fameuse
+https://www.amazon.fr/gp/product/B00VEEBOPG
 voila c'est tout 
 a plus l'ami
 ![arquivo digital](https://user-images.githubusercontent.com/112074501/186632183-5dd52628-8ba8-427f-9ef9-19e6a556bebe.png)
